@@ -21,6 +21,22 @@ A **Manager** coordinates a donation drive during a crisis, matching blood from 
 ## Database Schema
 
 Tables:
+CREATE TABLE Donor (
+    donor_id INT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    password VARCHAR(50) NOT NULL,
+    first_name VARCHAR(50),
+    last_name VARCHAR(50),
+    blood_type VARCHAR(5),
+    gender CHAR(1),
+    dob DATE,
+    email VARCHAR(100),
+    phone VARCHAR(20),
+    address VARCHAR(255),
+    city VARCHAR(50),
+    image BLOB
+);
+
 CREATE TABLE [dbo].[donor_info] (
     [d_id]       INT           IDENTITY (1, 1) NOT NULL,
     [f_name]     VARCHAR (50)  NOT NULL,
