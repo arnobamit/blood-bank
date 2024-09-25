@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|c:\\users\\arnob\\onedrive\\documents\\aiub\\7th semester\\artificial intelligence and expert system\\project\\bloodbank\\bloodbank\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|c:\\users\\arnob\\onedrive\\documents\\aiub\\7th semester\\artificial intelligence and expert system\\project\\bloodbank\\bloodbank\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ARNOB_ONEDRIVE_DOCUMENTS_AIUB_7TH_SEMESTER_ARTIFICIAL_INTELLIGENCE_AND_EXPERT_SYSTEM_PROJECT_BBMSDB.MDF/True/SqlTable/dbo.donor_info.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|c:\\users\\arnob\\onedrive\\documents\\aiub\\7th semester\\artificial intelligence and expert system\\project\\bloodbank\\bloodbank\\managerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\managerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|c:\\users\\arnob\\onedrive\\documents\\aiub\\7th semester\\artificial intelligence and expert system\\project\\bloodbank\\bloodbank\\managerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\managerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\bloodbank\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\bloodbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|c:\\users\\arnob\\onedrive\\documents\\aiub\\7th semester\\artificial intelligence and expert system\\project\\bloodbank\\bloodbank\\authorityaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{697B89F0-2C60-44B8-AC10-DE98F4632131}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\authorityaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\Program.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Program.cs",
+              "ToolTip": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\Program.cs",
+              "RelativeToolTip": "BloodBank\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:07:48.021Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "BloodBank\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\AdminLogin.cs",
+              "RelativeToolTip": "BloodBank\\AdminLogin.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:47:03.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "BloodBank\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "BloodBank\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:47:01.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.donor_info [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ARNOB_ONEDRIVE_DOCUMENTS_AIUB_7TH_SEMESTER_ARTIFICIAL_INTELLIGENCE_AND_EXPERT_SYSTEM_PROJECT_BBMSDB.MDF/True/SqlTable/dbo.donor_info.sql",
+              "ToolTip": "dbo.donor_info [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-25T15:45:43.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerPanel.cs",
+              "DocumentMoniker": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\ManagerPanel.cs",
+              "RelativeDocumentMoniker": "BloodBank\\ManagerPanel.cs",
+              "ToolTip": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\ManagerPanel.cs",
+              "RelativeToolTip": "BloodBank\\ManagerPanel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:42:42.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\ManagerPanel.cs",
+              "RelativeDocumentMoniker": "BloodBank\\ManagerPanel.cs",
+              "ToolTip": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\ManagerPanel.cs [Design]",
+              "RelativeToolTip": "BloodBank\\ManagerPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:42:39.21Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\Loading.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Loading.cs",
+              "ToolTip": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\Loading.cs [Design]",
+              "RelativeToolTip": "BloodBank\\Loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:18:58.446Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorityAccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\AuthorityAccess.cs",
+              "RelativeDocumentMoniker": "BloodBank\\AuthorityAccess.cs",
+              "ToolTip": "C:\\Users\\arnob\\OneDrive\\Documents\\AIUB\\7th Semester\\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\\Project\\BloodBank\\BloodBank\\AuthorityAccess.cs [Design]",
+              "RelativeToolTip": "BloodBank\\AuthorityAccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:31:22.988Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

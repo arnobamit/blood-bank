@@ -1,0 +1,118 @@
+P:\CS\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+P:\CS\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+P:\CS\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.AssemblyReference.cache
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.cache
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.CoreCompileInputs.cache
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.LogIn.resources
+P:\CS\BloodBank\BloodBank\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+P:\CS\BloodBank\BloodBank\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.Up2Date
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.AddDonner.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.findDonner.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.FindByBloodBank.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.FindByHospital.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.FindByLocation.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.FindByBlood.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.registerPanel.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.donnerUpdate.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.AddPatient.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.updatePatient.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.authorityAccess.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.RegisterLogin.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.AdminLogin.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.BloodBankInformartion.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.BloodBankStock.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.HospitalInfo.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.HospitalStock.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.loninOtp.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.ManagerLogin.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.ViewStockDetails.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.userRegistation.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.managerPanel.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.registerViewinfo.resources
+P:\CS\BloodBank\BloodBank\obj\Debug\BloodBank.dashboardPanel.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.AssemblyReference.cache
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.adminLogin.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.authorityAccess.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.BloodBankInformartion.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.BloodBankStock.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.dashboardPanel.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.AddDonner.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.FindByBloodBank.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.FindByHospital.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.FindByLocation.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.FindByBlood.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.HospitalInfo.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.HospitalStock.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.donnerUpdate.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.AddPatient.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.loninOtp.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.managerPanel.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.ManagerLogin.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.registerLogin.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.registerViewinfo.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.updatePatient.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.registerPanel.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.logIn.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.userRegistation.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.ViewStockDetails.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.cache
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.CoreCompileInputs.cache
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.Up2Date
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.Loading.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.ViewProfile.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.AddManager.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.AddRegister.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.AdminPanel.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.masterPasswcode.resources
+C:\Users\Shoikot\Downloads\Project\BloodBank\BloodBank\obj\Debug\BloodBank.findPatient.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.AssemblyReference.cache
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.AddManager.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.AddRegister.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.adminLogin.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.AdminPanel.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.authorityAccess.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.BloodBankInformartion.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.dashboardPanel.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.addDonner.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.FindByBloodBank.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.FindByHospital.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.FindByLocation.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.FindByBlood.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.HospitalInfo.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.Loading.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.donnerUpdate.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.addPatient.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.managerPanel.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.ManagerLogin.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.registerViewinfo.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.updatePatient.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.registerPanel.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.logIn.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.findPatient.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.userRegistation.resources
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.cache
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.CoreCompileInputs.cache
+C:\Users\arnob\OneDrive\Documents\AIUB\7th Semester\ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEM\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.Up2Date
+C:\Users\arnob\Downloads\Project\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.AssemblyReference.cache
+C:\Users\arnob\Downloads\Project\Project\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\arnob\Downloads\Project\Project\BloodBank\BloodBank\obj\Debug\BloodBank.pdb

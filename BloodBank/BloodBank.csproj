@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{697B89F0-2C60-44B8-AC10-DE98F4632131}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BloodBank</RootNamespace>
+    <AssemblyName>BloodBank</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.0.6, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddManager.Designer.cs">
+      <DependentUpon>AddManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRegister.Designer.cs">
+      <DependentUpon>AddRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BloodBankInformartion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BloodBankInformartion.Designer.cs">
+      <DependentUpon>BloodBankInformartion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDonner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDonner.Designer.cs">
+      <DependentUpon>AddDonner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindByBloodBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindByBloodBank.Designer.cs">
+      <DependentUpon>FindByBloodBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindByHospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindByHospital.Designer.cs">
+      <DependentUpon>FindByHospital.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindByLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindByLocation.Designer.cs">
+      <DependentUpon>FindByLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindByPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindByPatient.Designer.cs">
+      <DependentUpon>FindByPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindByBlood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindByBlood.Designer.cs">
+      <DependentUpon>FindByBlood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HospitalInfo.Designer.cs">
+      <DependentUpon>HospitalInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateDonner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateDonner.Designer.cs">
+      <DependentUpon>UpdateDonner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPatient.Designer.cs">
+      <DependentUpon>AddPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuthorityAccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuthorityAccess.Designer.cs">
+      <DependentUpon>AuthorityAccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerPanel.Designer.cs">
+      <DependentUpon>ManagerPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerLogin.Designer.cs">
+      <DependentUpon>ManagerLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterView.Designer.cs">
+      <DependentUpon>RegisterView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePatient.Designer.cs">
+      <DependentUpon>UpdatePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterPanel.Designer.cs">
+      <DependentUpon>RegisterPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registation.Designer.cs">
+      <DependentUpon>Registation.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddManager.resx">
+      <DependentUpon>AddManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRegister.resx">
+      <DependentUpon>AddRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPanel.resx">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuthorityAccess.resx">
+      <DependentUpon>AuthorityAccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BloodBankInformartion.resx">
+      <DependentUpon>BloodBankInformartion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDonner.resx">
+      <DependentUpon>AddDonner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindByBloodBank.resx">
+      <DependentUpon>FindByBloodBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindByHospital.resx">
+      <DependentUpon>FindByHospital.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindByLocation.resx">
+      <DependentUpon>FindByLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindByBlood.resx">
+      <DependentUpon>FindByBlood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HospitalInfo.resx">
+      <DependentUpon>HospitalInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateDonner.resx">
+      <DependentUpon>UpdateDonner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPatient.resx">
+      <DependentUpon>AddPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerPanel.resx">
+      <DependentUpon>ManagerPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerLogin.resx">
+      <DependentUpon>ManagerLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterView.resx">
+      <DependentUpon>RegisterView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePatient.resx">
+      <DependentUpon>UpdatePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterPanel.resx">
+      <DependentUpon>RegisterPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindByPatient.resx">
+      <DependentUpon>FindByPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Registation.resx">
+      <DependentUpon>Registation.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
