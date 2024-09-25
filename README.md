@@ -107,3 +107,6 @@ CREATE TABLE [dbo].[bb_info] (
     [bb_stock]   INT           NOT NULL,
     PRIMARY KEY CLUSTERED ([bb_id] ASC)
 );
+
+## ER Diagram
+![ER Diagram](https://github.com/user-attachments/assets/7033e4fd-d95c-4ad9-a1eb-6fec30e83ce3)
