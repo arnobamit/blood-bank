@@ -161,8 +161,6 @@ CREATE TABLE [dbo].[bb_info] (
 
 ![Screenshot 2024-09-20 214725](https://github.com/user-attachments/assets/10005b64-4aa7-481a-8daa-b86c79af65c8)
 
-![Screenshot 2024-09-20 214833](https://github.com/user-attachments/assets/84ccea1f-c8d2-468a-9ae8-eec9f6e9a3aa)
-
 ![Screenshot 2024-09-20 214847](https://github.com/user-attachments/assets/1919a86f-eab2-4802-95ca-b9742a6a0617)
 
 ![Screenshot 2024-09-20 215158](https://github.com/user-attachments/assets/26334232-3394-49a9-8d34-e3cc8f88a720)
