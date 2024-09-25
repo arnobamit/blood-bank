@@ -18,6 +18,17 @@
 ### Scenario:
 A **Manager** coordinates a donation drive during a crisis, matching blood from **Donors** to **Blood Banks**, and distributing it to **Hospitals** as needed. The **Admin** ensures smooth system operations.
 
+## Setup & Installation
+### Prerequisites
+- Visual Studio (or any C# IDE)
+- SQL Server or any compatible database
+- .NET Framework (latest version)
+
+### Steps to Set Up:
+1. **Clone the repository**:
+   ```bash
+   [git clone https://github.com/your-repo/blood-donation-management-system.git](https://github.com/arnobamit/blood-bank.git)
+
 ## Database Schema
 
 Tables:
